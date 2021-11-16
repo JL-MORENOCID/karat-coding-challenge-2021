@@ -1,6 +1,6 @@
 # karat-coding-challenge-2021
 
-<div>
+```
 Just a coding challenge
 
 Problem Statement
@@ -52,5 +52,5 @@ If the snake starts where the last one ended (row 5 column 2), the snake has two
   +  + [0][0][0][0] 0  0  +
   +  + [0] +  + [0] +  0  +
 For possible exits of (2, 0) and (5, 5). Since these are the same length, we take the one with the lowest row value first, and we return (2, 0). If the row value were the same, we’d take the one with the lowest column value instead.
-
+```
 </div>
